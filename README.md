@@ -8,7 +8,7 @@ Download and set up structure5 package. (https://williams-cs.github.io/cs136-s21
 Download to your system and run by running the following sequence of commands:
 $ git clone <link to this repo>
 $ javac WordGen.java
-$ java Wordgen 10 <<path to source text>
+$ java Wordgen 20 <<path to source text>
 
 *Claude Shannon, “A mathematical theory of communication”, Bell System Technical Journal, 1948. Shannon’s technique was popularized by A.K. Dewdney’s "A potpourri of 
 programmed prose and prosody" that appeared in Scientific American, 122-TK, 1989.
